@@ -1,13 +1,5 @@
 body {
+  text-align: center;
   background-color: #93c967;
   display: block;
-  margin: 8px 0;
-}
-h1,
-p {
-  text-align: center;
-}
-footer {
-  display: block;
-  text-align: center;
 }
